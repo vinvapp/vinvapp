@@ -3,9 +3,9 @@
 ## I'm a Student, Friend, Partner, Tech-enthusiast, Wanna-be-entrepreneur
 
 - Interested in all tech and keen to learn
-- Looking forward to collaborate with 
+- Looking forward to collaborate!
 - 2022 Goals: be more actively coding
-- Love sailing and Volleyball
+- Hobbies: Love sailing and Volleyball
 - Just got a Wing-foil board, hit me up if you have a foil recommendation  
 
 ### Connect with me:
@@ -18,18 +18,15 @@
 [<img align="left" alt="vincent.vonapp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-<br />
 
 ---
-
-<br />
 
 ### Top Skillz:
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][linkedin]
 
-<br />
+
 <br />
 
 ### Top Toolz:
