@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vinvapp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
-[<img align="left" alt="vinvapp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vinvapp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vinvapp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" />][youtube]
 [<img align="left" alt="Falk Vincent von Appen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vincent von Appen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vinva | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
@@ -36,7 +36,9 @@
 ---
 <br />
 
-### Latest youtube videos old my old [channel][gorpoductions]
+### Latest youtube videos old my old [YT-channel][gorpoductions]
+
+Placeholder for blog posts/Actual website is up.
 
 <!-- BLOG-POST-LIST:START -->
 - [Life at Sea | from Australia to China](https://www.youtube.com/watch?v=1xf7p-aHcuQ)
