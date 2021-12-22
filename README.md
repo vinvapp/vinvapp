@@ -18,7 +18,10 @@
 [<img align="left" alt="vincent.vonapp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
+
 ---
+
 <br />
 
 ### Top Skillz:
@@ -36,7 +39,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
+<br />
+
 ---
+
 <br />
 
 ### Latest youtube videos old my old [YT-channel][gorpoductions]
@@ -51,9 +57,6 @@ Placeholder for blog posts/Actual website is up.
 - [Life at Sea | Atlantic crossing on a Bulk Carrier](https://www.youtube.com/watch?v=HkFamQj36QM)
 <!-- BLOG-POST-LIST:END -->
 
-
-<br />
-<br />
 
 ---
 
