@@ -26,7 +26,7 @@
 
 ### Top Skillz:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.python.org/static/community_logos/python-powered-h.svg" />][linkedin]
+[<img align="left" alt="Visual Studio Code" height="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 
 <br />
