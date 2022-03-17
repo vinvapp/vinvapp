@@ -42,16 +42,10 @@
 
 <br />
 
-### Latest youtube videos old my old [YT-channel][gorpoductions]
+### Newest blog posts on my [website][website]
 
-Placeholder for blog posts/Actual website is up.
 
 <!-- BLOG-POST-LIST:START -->
-- [Life at Sea | from Australia to China](https://www.youtube.com/watch?v=1xf7p-aHcuQ)
-- [RC MINIBOAT with foils](https://www.youtube.com/watch?v=dsalrNpVN3k)
-- [Pilot transfer by Helicopter | Life at Sea](https://www.youtube.com/watch?v=Qh21-6X7nh4)
-- [Suez Canal Transit | 4K](https://www.youtube.com/watch?v=NK-DaIH78aE)
-- [Life at Sea | Atlantic crossing on a Bulk Carrier](https://www.youtube.com/watch?v=HkFamQj36QM)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -63,7 +57,7 @@ Placeholder for blog posts/Actual website is up.
 [website]: https://vinvapp.github.io/
 [youtube]: https://www.youtube.com/channel/UCZqW9Q3okXu4g8jmCrO52mg
 [gorpoductions]: https://www.youtube.com/user/GoProductionsHH
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/vincentvonappen/
 [linkedin]: https://www.linkedin.com/in/falk-vincent-von-appen/
 [spotify]: https://open.spotify.com/user/qrbpgaw7yhw7hdet90c8i9q19?si=32d4f6aea77c4b90
 [facebook]: https://www.facebook.com/vincent.vonapp
