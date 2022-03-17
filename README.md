@@ -5,7 +5,7 @@
 - Interested in all tech and keen to learn
 - Looking forward to collaborate!
 - 2022 Goals: be more actively coding
-- Hobbies: Love sailing and Volleyball
+- Hobbies: traveling, sailing and Volleyball
 - Just got a Wing-foil board, hit me up if you have a foil recommendation  
 
 ### Connect with me:
