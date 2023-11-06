@@ -50,11 +50,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hooked on a Foil](https://vinvapp.github.io/blog/2022/03/05/foil-1.html)
-- [Welcome to Jekyll!](https://vinvapp.github.io/jekyll/update/2021/12/24/welcome-to-jekyll.html)
-- [Conquering lake de Garda](https://vinvapp.github.io/jekyll/update/2021/07/05/conquering-lake-de-garda.html)
-- [Unser Autochen](https://vinvapp.github.io/semester-abroad/2020/01/11/autochen.html)
-- [San Francisco](https://vinvapp.github.io/semester-abroad/2019/10/25/san-francisco.html)
+- [List of recipes](https://vinvapp.github.io/recipe/3000/03/01/List_of_recipes.html)
+- [Kürbissuppe von Mutti](https://vinvapp.github.io/recipe/2023/11/02/K%C3%BCrbissuppe-Mutti.html)
+- [Obazda Twesti](https://vinvapp.github.io/recipe/2023/11/02/Obazda-Twesti.html)
+- [Pancakes from Jannis](https://vinvapp.github.io/recipe/2023/11/02/Pancakes-Jannis.html)
+- [Baguette](https://vinvapp.github.io/recipe/2023/11/02/baguette.html)
 <!-- BLOG-POST-LIST:END -->
 
 
