@@ -51,10 +51,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [List of recipes](https://vinvapp.github.io/recipe/3000/03/01/List_of_recipes.html)
+- [Lieblingskekse: Sterntaler](https://vinvapp.github.io/recipe/2023/12/12/Lieblingskekse.html)
+- [Buttermilchkuchen Lydia](https://vinvapp.github.io/recipe/2023/11/04/Buttermilchkuchen-Lydia.html)
 - [Kürbissuppe von Mutti](https://vinvapp.github.io/recipe/2023/11/02/K%C3%BCrbissuppe-Mutti.html)
 - [Obazda Twesti](https://vinvapp.github.io/recipe/2023/11/02/Obazda-Twesti.html)
-- [Pancakes from Jannis](https://vinvapp.github.io/recipe/2023/11/02/Pancakes-Jannis.html)
-- [Baguette](https://vinvapp.github.io/recipe/2023/11/02/baguette.html)
 <!-- BLOG-POST-LIST:END -->
 
 
