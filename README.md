@@ -4,7 +4,7 @@
 
 - Interested in all tech and keen to learn
 - Looking forward to collaborate!
-- 2023 Goals: be more actively coding
+- 2024 Goals: finish master thesis 
 - Hobbies: traveling, sailing and Volleyball
 - Just got a Wing-foil board, hit me up if you have a foil recommendation  
 
