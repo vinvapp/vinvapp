@@ -1,6 +1,6 @@
 ### Hi there, I'm Vincent - here: [vinvapp][website] 
 
-## I'm a Student, Tech-enthusiast, Wanna-Be-Entrepreneur
+## I'm a Student, Tech-enthusiast
 
 - Interested in all tech and keen to learn
 - Looking forward to collaborate!
